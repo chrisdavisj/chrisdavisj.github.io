@@ -1,0 +1,55 @@
+{
+  "skills": {
+    "Programming Languages": [
+      "Python",
+      "JavaScript",
+      "C++",
+      "Java",
+      "Dart",
+      "Swift"
+    ],
+    "Databases": [
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL",
+      "Neo4j",
+      "Microsoft SQL Server",
+      "Firestore DB"
+    ],
+    "Tools & Frameworks": [
+      "React",
+      "TensorFlow",
+      "Flutter",
+      "LangChain",
+      "RAG",
+      "Apache Jena Fuseki",
+      "SPARQL"
+    ],
+    "Cloud Services": [
+      "AWS",
+      "Google Cloud Platform",
+      "Microsoft Azure"
+    ],
+    "Research Areas": [
+      "Neurosymbolic AI",
+      "Knowledge Graphs",
+      "Large Language Models (LLMs)",
+      "Semantic Reasoning",
+      "Machine Learning", 
+      "AI in Education"
+    ],
+    "Certifications": [
+      "AWS Certified Developer - Associate",
+      "Google Cloud Professional Cloud Architect",
+      "Microsoft Azure Developer Associate"
+    ],
+    "Other Skills": [
+      "Version Control (Git, GitHub)",
+      "API Development (REST, GraphQL)",
+      "ETL Pipelines",
+      "Docker",
+      "Singularity",
+      "SLURM"
+    ]
+  }
+}

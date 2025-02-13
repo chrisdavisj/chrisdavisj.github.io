@@ -1,0 +1,49 @@
+{
+  "publications": [
+    {
+      "type": "journal_article",
+      "title": "Education in the era of Neurosymbolic AI",
+      "citation": "Jaldi, C. D., Ilkou, E., Schroeder, N., & Shimizu, C. (2025). Journal of Web Semantics, 85, 100857."
+    },
+    {
+      "type": "journal_article",
+      "title": "Pedagogical agents in K-12 education: A scoping review",
+      "citation": "Zhang, S., Jaldi, C., Schroeder, N. L., & Gladstone, J. R. (2024). Journal of Research on Technology in Education, 1\u201328."
+    },
+    {
+      "type": "journal_article",
+      "title": "Pedagogical agent design for K-12 education: A systematic review",
+      "citation": "Zhang, S., Jaldi, C., Schroeder, N. L., L\u00f3pez, A. A., Gladstone, J. R., & Heidig, S. (2024). Computers & Education. 105165."
+    },
+    {
+      "type": "journal_article",
+      "title": "Semi-automating the Scoping Review Process: Is it Worthwhile? A Methodological Evaluation",
+      "citation": "Zhang, S., Palaguachi, C., Pitera, M., Jaldi, C. D., Schroeder, N. L., Botelho, A. F., & Gladstone, J. R. (2024). Educational Psychology Review, 36(4), 1-35."
+    },
+    {
+      "type": "journal_article",
+      "title": "Large language models with human-in-the-loop validation for systematic review data extraction",
+      "citation": "Schroeder, N. L., Jaldi, C., & Zhang, S. (under review). Research Synthesis Methods."
+    },
+    {
+      "type": "journal_article",
+      "title": "Virtual characters help k-12 students learn and improve motivation: a meta-analysis",
+      "citation": "Schroeder, N. L., Zhang, S., Jaldi, C., Gladstone, J. R., L\u00f3pez, A. A., & Dorley, E. (under review). Review of Educational Research."
+    },
+    {
+      "type": "journal_article",
+      "title": "Learning and Teaching with AI in STEM Education: An Umbrella Review",
+      "citation": "Zhang, S., Jaldi, C., & Schroeder, N. L. (under review). TechTrend."
+    },
+    {
+      "type": "conference_presentation",
+      "title": "Large language models for systematic review data extraction",
+      "citation": "Jaldi, C. D., & Schroeder, N. L. (2024). Presented at the Association for Educational Communications and Technology Conference."
+    },
+    {
+      "type": "conference_presentation",
+      "title": "A Scoping Review of Pedagogical Agents in K-12 Education",
+      "citation": "Jaldi, C., Zhang, S., Schroeder, N., & Gladstone, J. (2024). Presented at the Association for Educational Communications and Technology Conference."
+    }
+  ]
+}

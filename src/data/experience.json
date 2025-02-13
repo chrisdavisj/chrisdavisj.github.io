@@ -1,0 +1,66 @@
+{
+  "experience": [
+    {
+      "organization": "Wright State University",
+      "role": "Graduate Research Assistant",
+      "icon": "fa-flask",
+      "location": "Dayton, Ohio",
+      "period": "Aug 2024 \u2013 Present",
+      "details": [
+        "Collaborated with NSF Proto-OKN Theme 3: An Education Gateway for the Proto-OKN - EduGate project.",
+        "Designed an optimized Curriculum Knowledge Graph for Knowledge Graph Education.",
+        "Developed and deployed scalable AI models and knowledge-driven systems on HPC clusters.",
+        "Led cross-institutional collaborations contributing to Neurosymbolic AI and Knowledge Representation."
+      ]
+    },
+    {
+      "organization": "Wright State University",
+      "role": "Research Assistant",
+      "icon": "fa-flask",
+      "location": "Dayton, Ohio",
+      "period": "Nov 2023 \u2013 Aug 2024",
+      "details": [
+        "Enhanced AI-driven K-12 STEM learning technologies through the NSF National AI Institute for Inclusive Intelligent Technologies for Education - INVITE Institute project.",
+        "Optimized research through AI techniques, including systematic reviews & crafting academic research findings.",
+        "Coauthored journal articles and conference proceedings on AI applications in education."
+      ]
+    },
+    {
+      "organization": "SEEME",
+      "role": "Software Developer",
+      "icon": "fa-code",
+      "location": "Phoenix, Arizona",
+      "period": "Jun 2024 \u2013 Present",
+      "details": [
+        "Designed and optimized a modular network architecture, improving API request efficiency by 50%.",
+        "Developed and integrated cloud-based backend services with secure API communications and real-time synchronization.",
+        "Conducted legacy system refactoring and end-to-end iOS development, improving scalability and performance."
+      ]
+    },
+    {
+      "organization": "PricewaterhouseCoopers",
+      "role": "Associate",
+      "icon": "fa-briefcase",
+      "location": "Bangalore, India",
+      "period": "Sept 2021 \u2013 Aug 2023",
+      "details": [
+        "Led a team of 5 in creating BXT Agile and Design Thinking business pitches.",
+        "Developed innovative iOS healthcare applications, earning multiple awards for performance.",
+        "Enhanced operational efficiency by optimizing workflows leveraging Python, PySpark, SQL, and Microsoft Azure Technologies.",
+        "Successfully delivered a cross-platform mobile application for a leading real estate client, securing a multi-million-dollar contract."
+      ]
+    },
+    {
+      "organization": "Technovert",
+      "role": "Software Developer Intern",
+      "icon": "fa-code",
+      "location": "Hyderabad, India",
+      "period": "May 2019 \u2013 July 2019",
+      "details": [
+        "Architected and created mobile app clients and server services.",
+        "Developed a robust social media mobile app enabling content publishing and real-time messaging.",
+        "Engineered APIs with ASP.NET Core, facilitating efficient data communication and system performance."
+      ]
+    }
+  ]
+}

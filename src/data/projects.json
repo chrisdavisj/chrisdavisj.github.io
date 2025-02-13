@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "name": "PubTPort",
+      "description": "A mobile app to analyze & suggest different transportation modes.",
+      "repo": "https://github.com/user/pubtport",
+      "thumbnail": "/path/to/pubtport-thumbnail.jpg"
+    },
+    {
+      "name": "PlaceMents",
+      "description": "Streamlined campus placement processes, optimizing recruitment outcomes.",
+      "repo": "https://github.com/user/placements",
+      "thumbnail": "/path/to/placements-thumbnail.jpg"
+    },
+    {
+      "name": "Antovid",
+      "description": "A mobile app for pandemic guidance, contributing to community well-being.",
+      "repo": "https://github.com/user/antovid",
+      "thumbnail": "/path/to/antovid-thumbnail.jpg"
+    },
+    {
+      "name": "OpenCV Distance App",
+      "description": "An application incorporating OpenCV to differentiate object distances effectively.",
+      "repo": "https://github.com/user/opencv-distance",
+      "thumbnail": "/path/to/opencv-distance-thumbnail.jpg"
+    }
+  ]
+}

@@ -18,7 +18,7 @@ function Skills() {
   const [skills, setSkills] = useState({ research: [], technical: [], certifications: [] });
 
   useEffect(() => {
-    fetch('/src/data/skills.json')
+    fetch('/data/skills.json')
       .then((res) => res.json())
       .then((data) => setSkills(data.skills));
   }, []);

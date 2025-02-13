@@ -7,7 +7,7 @@ function Publications() {
   const [publications, setPublications] = useState([]);
 
   useEffect(() => {
-    fetch('/src/data/publications.json')
+    fetch('/data/publications.json')
       .then((res) => res.json())
       .then((data) => setPublications(data.publications));
   }, []);

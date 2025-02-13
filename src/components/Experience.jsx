@@ -7,7 +7,7 @@ function Experience() {
   const [experience, setExperience] = useState([]);
 
   useEffect(() => {
-    fetch('/src/data/experience.json')
+    fetch('/data/experience.json')
       .then((res) => res.json())
       .then((data) => setExperience(data.experience))
       .catch((error) => console.error('Error fetching experience data:', error));

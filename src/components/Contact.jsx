@@ -13,7 +13,7 @@ function Contact() {
         <a href="https://github.com/chrisdavisj" target="_blank" rel="noopener noreferrer">
           <FaGithub />
         </a>
-        <a href="mailto:jaldi.2@wright.com" target="_blank" rel="noopener noreferrer">
+        <a href="mailto:jaldi.2@wright.edu" target="_blank" rel="noopener noreferrer">
           <FaEnvelope />
         </a>
         {/* <a href="https://twitter.com/chrisdavisj" target="_blank" rel="noopener noreferrer">

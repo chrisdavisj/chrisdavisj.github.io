@@ -48,7 +48,7 @@ function Navbar() {
   const menuItems = [
     { name: 'Skills', icon: <FaUserAlt /> },
     { name: 'Experience', icon: <FaBriefcase /> },
-    { name: 'Projects', icon: <FaProjectDiagram /> },
+    // { name: 'Projects', icon: <FaProjectDiagram /> },
     { name: 'Publications', icon: <FaBook /> },
     { name: 'Contact', icon: <FaEnvelope /> },
   ];

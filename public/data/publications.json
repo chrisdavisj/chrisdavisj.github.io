@@ -1,6 +1,21 @@
 {
   "publications": [
     {
+      "type": "conference_proceeding",
+      "title": "Knowledge Conceptualization Impacts RAG Efficacy",
+      "citation": "Jaldi, C. D., Saini, A., Ghiasi, E., Eziolise, O. D., & Shimizu, C. (2025). In Proceedings of the Seventh International Knowledge Graph and Semantic Web Conference."
+    },
+    {
+      "type": "conference_proceeding",
+      "title": "Research Directions for Ontology-Guided Domain-Specific Knowledge Graph Population Using LLMs",
+      "citation": "Saini, A., Jaldi, C. D., Ethier, J., & Shimizu, C. (2025). In Proceedings of the Seventh International Knowledge Graph and Semantic Web Conference."
+    },
+    {
+      "type": "conference_proceeding",
+      "title": "Extending the Interactive Knowledge Browser to Support Educational Multimedia",
+      "citation": "Christou, A., Ellis, A., Jaldi, C. D., & Shimizu, C. (2025). In Linking Meaning: Semantic Technologies Shaping the Future of AI (pp. 218-225). IOS Press."
+    },
+    {
       "type": "journal_article",
       "title": "Education in the era of Neurosymbolic AI",
       "citation": "Jaldi, C. D., Ilkou, E., Schroeder, N., & Shimizu, C. (2025). Journal of Web Semantics, 85, 100857."
@@ -20,15 +35,21 @@
       "title": "Semi-automating the Scoping Review Process: Is it Worthwhile? A Methodological Evaluation",
       "citation": "Zhang, S., Palaguachi, C., Pitera, M., Jaldi, C. D., Schroeder, N. L., Botelho, A. F., & Gladstone, J. R. (2024). Educational Psychology Review, 36(4), 1-35."
     },
+    
+    {
+      "type": "journal_article",
+      "title": "Virtual characters help k-12 students learn and improve motivation: a meta-analysis",
+      "citation": "Schroeder, N. L., Zhang, S., Jaldi, C., Gladstone, J. R., L\u00f3pez, A. A., & Dorley, E. (accepted). Review of Educational Research."
+    },
+    {
+      "type": "journal_article",
+      "title": "An Ontology for Representing Curriculum and Learning Material",
+      "citation": "Christou, A., Jaldi, C. D., Zalewski, J., McGinty, H. K., Hitzler, P., & Shimizu, C. (under-review). Journal of Web Semantics."
+    },
     {
       "type": "journal_article",
       "title": "Large language models with human-in-the-loop validation for systematic review data extraction",
       "citation": "Schroeder, N. L., Jaldi, C., & Zhang, S. (under review). Research Synthesis Methods."
-    },
-    {
-      "type": "journal_article",
-      "title": "Virtual characters help k-12 students learn and improve motivation: a meta-analysis",
-      "citation": "Schroeder, N. L., Zhang, S., Jaldi, C., Gladstone, J. R., L\u00f3pez, A. A., & Dorley, E. (under review). Review of Educational Research."
     },
     {
       "type": "journal_article",

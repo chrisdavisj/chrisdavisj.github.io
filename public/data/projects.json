@@ -1,27 +1,33 @@
 {
   "projects": [
     {
+      "name": "Evolving AI Learning Management System",
+      "description": "An AI-native Learning Management System using agentic LLMs, Retrieval-Augmented Generation (RAG) and evolving Knowledge Graphs. Built with a distributed microservices architecture supporting multimodal inputs (voice, image), personalized concept delivery, curriculum-aligned guidance, and scalable inference workflows.",
+      "repo": "https://github.com/chrisdavisj/evolving-ai-lms",
+      "thumbnail": "/path/to/ai-lms-thumbnail.jpg"
+    },
+    {
       "name": "PubTPort",
-      "description": "A mobile app to analyze & suggest different transportation modes.",
-      "repo": "https://github.com/user/pubtport",
+      "description": "An intelligent transportation recommendation mobile application that analyzes user context to suggest optimal transportation modes.",
+      "repo": "https://github.com/chrisdavisj/pubtport",
       "thumbnail": "/path/to/pubtport-thumbnail.jpg"
     },
     {
       "name": "PlaceMents",
-      "description": "Streamlined campus placement processes, optimizing recruitment outcomes.",
-      "repo": "https://github.com/user/placements",
+      "description": "A campus recruitment workflow system designed to streamline hiring processes, improve recruiter–student interaction and optimize placement outcomes.",
+      "repo": "https://github.com/chrisdavisj/placements",
       "thumbnail": "/path/to/placements-thumbnail.jpg"
     },
     {
       "name": "Antovid",
-      "description": "A mobile app for pandemic guidance, contributing to community well-being.",
-      "repo": "https://github.com/user/antovid",
+      "description": "A public-health mobile application providing real-time pandemic protocol guidance and safety recommendations to support community well-being.",
+      "repo": "https://github.com/chrisdavisj/antovid",
       "thumbnail": "/path/to/antovid-thumbnail.jpg"
     },
     {
-      "name": "OpenCV Distance App",
-      "description": "An application incorporating OpenCV to differentiate object distances effectively.",
-      "repo": "https://github.com/user/opencv-distance",
+      "name": "Object Distance Estimation and Differentiation App",
+      "description": "A computer vision application that detects and differentiates object distances using OpenCV-based image processing and advanced depth map computation techniques.",
+      "repo": "https://github.com/chrisdavisj/opencv-distance",
       "thumbnail": "/path/to/opencv-distance-thumbnail.jpg"
     }
   ]
